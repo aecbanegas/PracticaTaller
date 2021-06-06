@@ -18,6 +18,7 @@ public class JavaApplication9 {
         // TODO code application logic here
         //git revert codigo
         char a,b,c;
+        int num1, num2,num3;
     }
     
 }
